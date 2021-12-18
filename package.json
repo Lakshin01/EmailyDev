@@ -1,0 +1,26 @@
+{
+  "name": "emailydev",
+  "version": "1.0.0",
+  "description": "Emaily Dev Server Code",
+  "main": "index.js",
+  "engines": {
+    "node": "17.2.0",
+    "npm": "8.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshin01/EmailyDev.git"
+  },
+  "author": "Lakshin Kumar R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshin01/EmailyDev/issues"
+  },
+  "homepage": "https://github.com/Lakshin01/EmailyDev#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
